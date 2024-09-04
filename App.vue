@@ -23,12 +23,14 @@
 		background-color: #f5f5f5;
 	}
 
+	// uni-page-head { display: none; } 
 	/* #endif */
 	.example-info {
 		font-size: 14px;
 		color: #333;
 		padding: 10px;
 	}
+	 
 	
 	.uni-list-item__extra-text{
 		color: green !important;
